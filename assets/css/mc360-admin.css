@@ -1,0 +1,73 @@
+/*mC360_add_other_fields_for_packaging  */
+.mc360-row > span {
+    float: left;
+    width: 50%;
+    font-weight: bold;
+}
+.mc360-row > label {
+    float: left;
+    width: 50%;
+}
+.mc360-row {
+    display: table;
+    margin-bottom: 10px;
+    width: 100%;
+}
+#mc360-message.success {
+    border-left: 3px solid #46b450;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    color: #009788;
+    margin-bottom: 10px;
+    padding: 1px 12px;
+}
+#orderidmc360 {
+    background: #009788;
+    border-color: #009788;
+    color: #fff;
+}
+/*mC360_add_other_fields_for_packaging  */
+
+/* Configurations */
+.imgRight {
+    border-radius: 4px;
+    float: right;
+    height: auto;
+    margin-top: -38px;
+    width: 150px;
+}
+.wp-admin .wrap.mc360 select {
+    padding: 2px;
+    line-height: 28px;
+    height: 35px;
+    width: 50%;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    position: relative !important;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-image: url('../img/arrow_img.png')
+}
+#order_status_new {
+    width: 40%;
+}
+.wp-admin .wrap.mc360 label {
+    margin-right: 15px;
+}
+.wp-admin .wrap.mc360 input[type="text"] {
+    width: 40%;
+    height: 35px;
+}
+@media only screen and (max-width: 767px) {
+    .wp-admin .wrap.mc360 input[type="text"] {
+        width: 100%;
+    }
+    .wp-admin .wrap.mc360 select {
+        width: 100%
+    }
+    #order_status_new {
+        width: 100%;
+    }
+}.mc360-messageerror.alert-danger {  background-color: #fff;  border-left: 1px solid red;  color: red;  padding: 5px;}
+/* Configurations */

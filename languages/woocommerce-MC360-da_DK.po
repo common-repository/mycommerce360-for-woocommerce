@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyCommerce360 for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 11:57+0000\n"
+"PO-Revision-Date: 2019-02-08 11:59+0000\n"
+"Last-Translator: bulltest <info@bulldesign.dk>\n"
+"Language-Team: Danish\n"
+"Language: da-DK\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: classes/Commonfunctions.php:18
+msgid "Choose normal delivery"
+msgstr "Levering til døren"
+
+#: classes/Commonfunctions.php:22
+msgid "Choose flex delivery"
+msgstr "Må stilles uden kvittering"
+
+#: helpers/helpers.php:103
+msgid "The zipcode must be 4 numbers long, and numeric - please try again"
+msgstr ""
+
+#: helpers/helpers.php:104
+msgid "* Couldnt mark this pickup point on the map"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:14
+#: classes/method_settings/settings-pickup.php:14
+msgid "Method Name"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:16
+#: classes/method_settings/settings-pickup.php:16
+msgid ""
+"This controls the title which customer will be presented for during checkout."
+msgstr ""
+
+#: classes/method_settings/settings-default.php:27
+#: classes/method_settings/settings-pickup.php:27
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: classes/method_settings/settings-pickup.php:46
+msgid "Carrier name for normal delivery"
+msgstr ""
+
+#: classes/method_settings/settings-pickup.php:54
+msgid "Carrier name for flex delivery with text"
+msgstr ""
+
+#. Name of the plugin
+msgid "MyCommerce360 - Intelligent Delivery Management System"
+msgstr ""
+
+#: classes/Commonfunctions.php:25
+msgid "Where can the carrier leave the package?"
+msgstr "Hvor ønsker du pakken stillet?"
+
+#: classes/Commonfunctions.php:30
+msgid "Pickup point can be added during checkout"
+msgstr "Gå til kassen for at tilføje et udleveringssted."
+
+#: classes/Commonfunctions.php:53
+msgid "Select pickup point"
+msgstr "Vælg udleveringssted"
+
+#: classes/Commonfunctions.php:147
+msgid "Droppoint location"
+msgstr "VÆLG UDLEVERINGSSTED"
+
+#: classes/Commonfunctions.php:176
+msgid "EDIT"
+msgstr "TILPAS"
+
+#: classes/Commonfunctions.php:183
+msgid "MAP"
+msgstr "KORT"
+
+#: classes/Commonfunctions.php:188
+msgid "LIST"
+msgstr "LISTE"
+
+#: classes/Commonfunctions.php:198 classes/Commonfunctions.php:244
+msgid "Enter a location"
+msgstr "Indtast adresse"
+
+#: classes/Commonfunctions.php:316
+msgid "CHOOSEN PICKUP POINT"
+msgstr "VALGT UDLEVERINGSSTED"
+
+#: classes/Commonfunctions.php:329
+msgid "CONTINUE"
+msgstr "FORTSÆT"
+
+#: classes/Commonfunctions.php:343
+msgid "Pickup point can be selected during checkout"
+msgstr "Gå til kassen for at vælge et udleveringssted."
+
+#: helpers/helpers.php:102
+msgid "Currently choosen pickup point:"
+msgstr "Valgt udleveringssted:"
+
+#: helpers/helpers.php:106
+msgid "Select droppoint"
+msgstr "Vælg udleveringssted"
+
+#: helpers/helpers.php:107
+msgid "You have selected"
+msgstr "Du har valgt"
+
+#: helpers/helpers.php:108
+msgid "Price"
+msgstr "Pris"
+
+#: helpers/helpers.php:109
+msgid "Selected"
+msgstr "Valgt"
+
+#: helpers/helpers.php:114
+msgid "Choose pickup point"
+msgstr "Vælg udleveringssted"
+
+#: helpers/helpers.php:115
+msgid "Place Order"
+msgstr "Gennemfør ordren"
+
+#: helpers/helpers.php:295
+msgid "Order has been already imported"
+msgstr "Ordren er allerede importeret"
+
+#: configurations/configurations.php:17
+msgid "mycommerce360.dk"
+msgstr "mycommerce360.dk"
+
+#. Author of the plugin
+#: configurations/configurations.php:17
+msgid "MyCommerce360"
+msgstr "MyCommerce360"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:245
+msgid "API username"
+msgstr "API brugernavn"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:267
+msgid "API Secret token"
+msgstr "API-hemmelig token"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:289
+msgid "Username for data import"
+msgstr "Brugernavn til dataimport"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:311
+msgid "Google Api Key"
+msgstr "Google Api-nøgle"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:339
+msgid "Select status to trigger import"
+msgstr "Vælg status for at udløse import"
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: configurations/configurations.php:349
+msgid ""
+"If you want the orders to be imported right away, select the first status "
+"that a successful order is assigned to."
+msgstr ""
+"Vælg den status som du ønsker at ordrene skal importeres på. Hvis du manuelt "
+"selv ønsker at importere ordrene skal du vælge status \"None\"."
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:420
+msgid "Select a carrier"
+msgstr "Vælg en transportør"
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:444
+msgid "Select display"
+msgstr "Select display"
+
+#: configurations/configurations.php:480
+msgid "General Settings"
+msgstr "Generelle indstillinger"
+
+#: configurations/configurations.php:488
+msgid "Orderimport"
+msgstr "Ordreimport"
+
+#: configurations/configurations.php:496
+msgid "Carrier selection for droppoints"
+msgstr "Fragtmetoder med udleveringssteder"
+
+#: configurations/configurations.php:504
+msgid "Public carrier for droppoints"
+msgstr "Fragtmetode med \"Vælg udleveringssted\""
+
+#: configurations/configurations.php:504
+msgid ""
+"Create a shippingmethod that you call something like \"Select droppoint\" eg."
+" and Select it here. All your shipping methods will be showing under that one"
+msgstr ""
+"Opret en fragtmetode du f.eks. kalder \"Vælg udleveringssted\" og vælg den "
+"her. Alle dine fragtmetoder med mulighed for udlveringssted som du har valgt "
+"foroven vil blive vist når man trykker på \"Vælg udleveringssted\""
+
+#: configurations/configurations.php:512
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: configurations/configurations.php:542
+msgid "You can find the API username in your MC360 contract."
+msgstr "Du kan finde dit API username i din MyCommerce360 kontrakt."
+
+#: configurations/configurations.php:566
+msgid "You can find the API secret token in your MC360 contract."
+msgstr "Du kan finde dit API secret token i din MyCommerce360 kontrakt."
+
+#: configurations/configurations.php:590
+msgid ""
+"You can find the API import username when you edit your profile in MC360."
+msgstr ""
+"Du kan finde API brugernavn til ordreimport i MyCommerce360 når du redigerer "
+"din profil"
+
+#: configurations/configurations.php:612
+msgid "Click here"
+msgstr "Klik her "
+
+#: configurations/configurations.php:616
+msgid "to generate a Google API key. How-to guide is provided in documentation"
+msgstr ""
+"for at generere en Google API nøgle. Guide til hvordan du gør er vist i "
+"dokumentationen."
+
+#: classes/method_settings/settings-default.php:21
+#: classes/method_settings/settings-pickup.php:21
+msgid "Tax Status"
+msgstr "Moms status"
+
+#: classes/method_settings/settings-default.php:26
+#: classes/method_settings/settings-pickup.php:26
+msgid "Taxable"
+msgstr "Moms"
+
+#: classes/method_settings/settings-default.php:31
+#: classes/method_settings/settings-pickup.php:31
+msgid "Shipping Cost"
+msgstr "Fragtpris"
+
+#: classes/method_settings/settings-default.php:38
+#: classes/method_settings/settings-pickup.php:38
+msgid "Minimum order value for free shipping"
+msgstr "Minimum ordre værdi for gratis forsendelse"
+
+#. Description of the plugin
+msgid ""
+"MyCommerce360 integration with WooCommerce. Send packages with Postnord, GLS,"
+" Bring, DAO, DHL & UPS."
+msgstr ""
+"MyCommerce360 integration med WooCommerce. Send pakker med Postnord, GLS, "
+"Bring, DAO, DHL & UPS."
+
+#. URI of the plugin
+msgid "https://mycommerce360.dk"
+msgstr "https://mycommerce360.dk"
+
+#. Author URI of the plugin
+msgid "https://www.mycommerce360.dk"
+msgstr "https://www.mycommerce360.dk"

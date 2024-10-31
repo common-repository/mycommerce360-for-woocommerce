@@ -1,0 +1,233 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-12-05 12:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: helpers/helpers.php:197
+msgid "Currently choosen pickup point:"
+msgstr ""
+
+#: helpers/helpers.php:199
+msgid "The zipcode must be 4 numbers long, and numeric - please try again"
+msgstr ""
+
+#: helpers/helpers.php:201
+msgid "* Couldnt mark this pickup point on the map"
+msgstr ""
+
+#: helpers/helpers.php:205
+msgid "Select droppoint"
+msgstr ""
+
+#: helpers/helpers.php:206
+msgid "You have selected"
+msgstr ""
+
+#: helpers/helpers.php:207
+msgid "Price"
+msgstr ""
+
+#: helpers/helpers.php:209
+msgid "Selected"
+msgstr ""
+
+#: helpers/helpers.php:214
+msgid "Choose pickup point"
+msgstr ""
+
+#: helpers/helpers.php:215
+msgid "Place Order"
+msgstr ""
+
+#: helpers/helpers.php:486
+msgid "Order has been already imported"
+msgstr ""
+
+#: classes/Commonfunctions.php:66
+msgid "Select pickup point"
+msgstr ""
+
+#: classes/Commonfunctions.php:198
+msgid "Droppoint location"
+msgstr ""
+
+#: classes/Commonfunctions.php:248
+msgid "EDIT"
+msgstr ""
+
+#: classes/Commonfunctions.php:258
+msgid "MAP"
+msgstr ""
+
+#: classes/Commonfunctions.php:264
+msgid "LIST"
+msgstr ""
+
+#: classes/Commonfunctions.php:278 classes/Commonfunctions.php:348
+msgid "Enter a location"
+msgstr ""
+
+#: classes/Commonfunctions.php:480
+msgid "CHOOSEN PICKUP POINT"
+msgstr ""
+
+#: classes/Commonfunctions.php:502
+msgid "CONTINUE"
+msgstr ""
+
+#: classes/Commonfunctions.php:536
+msgid "Pickup point can be selected during checkout"
+msgstr ""
+
+#: configurations/configurations.php:9
+msgid "mycommerce360.dk"
+msgstr ""
+
+#. Author of the plugin
+#: configurations/configurations.php:9
+msgid "MyCommerce360"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:123
+msgid "API username"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:134
+msgid "API Secret token"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:145
+msgid "Username for data import"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:156
+msgid "Google Api Key"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:170
+msgid "Select status to trigger import"
+msgstr ""
+
+#. The array of arguments to pass to the callback. In this case, just a description.
+#: configurations/configurations.php:175
+msgid ""
+"If you want the orders to be imported right away, select the first status "
+"that a successful order is assigned to."
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:206
+msgid "Select a carrier"
+msgstr ""
+
+#. ID used to identify the field throughout the theme
+#: configurations/configurations.php:218
+msgid "Select display"
+msgstr ""
+
+#: configurations/configurations.php:236
+msgid "General Settings"
+msgstr ""
+
+#: configurations/configurations.php:240
+msgid "Orderimport"
+msgstr ""
+
+#: configurations/configurations.php:244
+msgid "Carrier selection for droppoints"
+msgstr ""
+
+#: configurations/configurations.php:248
+msgid "Public carrier for droppoints"
+msgstr ""
+
+#: configurations/configurations.php:248
+msgid ""
+"Create a shippingmethod that you call something like \"Select droppoint\" eg."
+" and Select it here. All your shipping methods will be showing under that one"
+msgstr ""
+
+#: configurations/configurations.php:252
+msgid "Documentation"
+msgstr ""
+
+#: configurations/configurations.php:267
+msgid "You can find the API username in your MC360 contract."
+msgstr ""
+
+#: configurations/configurations.php:279
+msgid "You can find the API secret token in your MC360 contract."
+msgstr ""
+
+#: configurations/configurations.php:291
+msgid ""
+"You can find the API import username when you edit your profile in MC360."
+msgstr ""
+
+#: configurations/configurations.php:302
+msgid "Click here"
+msgstr ""
+
+#: configurations/configurations.php:304
+msgid "to generate a Google API key. How-to guide is provided in documentation"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:14
+msgid "Method Name"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:16
+msgid ""
+"This controls the title which customer will be presented for during checkout."
+msgstr ""
+
+#: classes/method_settings/settings-default.php:21
+msgid "Tax Status"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:26
+msgid "Taxable"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:27
+msgctxt "Tax status"
+msgid "None"
+msgstr ""
+
+#: classes/method_settings/settings-default.php:31
+msgid "Shipping Cost"
+msgstr ""
+
+#. Name of the plugin
+msgid "MyCommerce360 for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"MyCommerce360 integration with WooCommerce. Send packages with Postnord, GLS,"
+" Bring, DAO, DHL & UPS."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://mycommerce360.dk"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.mycommerce360.dk"
+msgstr ""
